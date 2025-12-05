@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧑‍💻 Personal Portfolio – Deepak Kumar
 
-## Getting Started
+This is my personal developer portfolio website, built to showcase my projects, technical skills, achievements, and experience as a **Software Developer** specializing in **backend engineering**, **scalable systems**, and **full-stack development**.
 
-First, run the development server:
+It highlights the work I've done including microservices-based applications, high-performance backend systems, and user-focused full-stack products.
+
+## 🚀 Tech Stack
+
+### **Frontend**
+
+* Next.js
+* React
+* TypeScript
+* TailwindCSS
+* Framer Motion
+
+### **Backend**
+
+* Java
+* Spring Boot
+* Node.js
+
+### **UI/UX**
+
+* Responsive layouts
+* Accessibility-first design
+
+### **Deployment**
+
+* Vercel / Docker / Cloud
+
+### **Animations**
+
+* Framer Motion
+
+### **Version Control**
+
+* Git & GitHub
+
+## 📌 Features
+
+* ⚡ Fully responsive UI
+* 🎨 Clean and modern design with gradients and smooth transitions
+* 🧩 Modular, scalable project structure
+* 💼 Projects section with descriptions, tech used, GitHub links, and live demos
+* 📚 Skills section categorized by Backend, Frontend, DevOps, Databases, ML, and Core Strengths
+* 🌀 Smooth animations powered by Framer Motion
+* 🌙 Light/Dark theme ready
+
+## 📁 Sections Included
+
+* **Hero Section** – Introduction with a modern gradient headline
+* **About Me** – Overview of your background, expertise, and interests
+* **Projects** – Detailed showcase of your major work (ShopFlow, Event Ticketing, Mess Management System, etc.)
+* **Skills** – All tools and technologies you work with
+* **Experience** – (Optional) Timeline of internships or roles
+* **Contact** – Email & social links
+
+## 🛠️ Installation
 
 ```bash
+git clone https://github.com/your-username/your-portfolio.git
+cd your-portfolio
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open `http://localhost:3000` in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📤 Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project can be deployed easily on **Vercel**, **Netlify**, or any Node hosting provider.
 
-## Learn More
+**Recommended:**
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+vercel deploy
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📸 Screenshots
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+*Will be added later*
 
-## Deploy on Vercel
+## ⭐ About the Developer
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Hi! I'm **Deepak Kumar**, a Software Developer passionate about:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* Backend Engineering (Java, Spring Boot)
+* Microservices & System Design
+* Scalable Architecture & Databases
+* Full-Stack Development
+* Problem Solving & DSA
+* Exploring ML & AI
+
+I love building systems that solve real-world problems and provide meaningful user impact.
+
+## 📬 Contact
+
+* **Email:** [piomega01@gmail.com](mailto:piomega01@gmail.com)
+* **Portfolio:** will add..
+* **LinkedIn:** [https://www.linkedin.com/in/deepak-kumar-10811a220/](https://www.linkedin.com/in/deepak-kumar-10811a220/)
